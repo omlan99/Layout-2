@@ -12,11 +12,14 @@
     font-size: 14px;
     width: 1440px;
     justify-content: center;
+    min-height: 100vh;
 
 }
 .card{
     width: 800px;
     height:500px;
+    margin: auto;
+    
 }
 h2,a{
     color: hsl(0, 0%, 95%);
