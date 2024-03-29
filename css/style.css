@@ -21,23 +21,26 @@
     margin: auto;
     
 }
-h2,a{
+h1,h2,a{
     color: hsl(0, 0%, 95%);
 }
-h2{
+h1,h2{
     font-family: 'Big Shoulders Display', cursive;
-    font-size: 25px;
+    font-size: 40px;
     padding: 20px 0;
 }
 p{
     color: hsla(0, 0%, 100%, 0.75);
     padding:50px 0;
+    line-height: 1.7;
 }
 a{
     text-decoration: none;
     display: inline-block;
     padding: 10px 30px;
     border: 1px solid hsl(0, 0%, 95%) ;
+    color: hsl(179, 100%, 13%);
+    background-color: hsla(0, 0%, 100%, 0.75);
     border-radius: 50px;
 }
 .sedans{
